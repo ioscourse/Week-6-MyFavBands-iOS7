@@ -12,20 +12,24 @@
 	<dict>
 		<key>25BCC883-174E-4A8E-9ADF-8B4F26324201</key>
 		<string>https://github.com/ioscourse/Week-6-MyFavBands-iOS7.git</string>
+		<key>729149924B65969E6C1261114F24E3CA79302FD2</key>
+		<string>https://github.com/ioscourse/Week-6-MyFavBands-iOS7.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>MyFavBands.xcodeproj/project.xcworkspace</string>
+	<string>MyFavBands.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>25BCC883-174E-4A8E-9ADF-8B4F26324201</key>
+		<string>../../../Week 6 MyFavBands iOS7</string>
+		<key>729149924B65969E6C1261114F24E3CA79302FD2</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/ioscourse/Week-6-MyFavBands-iOS7.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>25BCC883-174E-4A8E-9ADF-8B4F26324201</string>
+	<string>729149924B65969E6C1261114F24E3CA79302FD2</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>25BCC883-174E-4A8E-9ADF-8B4F26324201</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Week 6 MyFavBands iOS7</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>729149924B65969E6C1261114F24E3CA79302FD2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Week-6-MyFavBands-iOS7</string>
 		</dict>
 	</array>
 </dict>
